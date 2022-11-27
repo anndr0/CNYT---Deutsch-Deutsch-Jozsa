@@ -8,7 +8,7 @@ class MytestCase(unittest.TestCase):
     global __package__
 
     def test(self):
-        print("FUNCIONES")
+        print("PRUEBAS FUNCIONES")
         self.assertEqual(aCero.Test(), [{'00': 1000}, {'01': 1000}, {'10': 1000}, {'11': 1000}])
         self.assertEqual(aUno.Test(), [{'01': 1000}, {'00': 1000}, {'11': 1000}, {'10': 1000}])
         self.assertEqual(Cruzados.Test(), [{'01': 1000}, {'00': 1000}, {'10': 1000}, {'11': 1000}])
