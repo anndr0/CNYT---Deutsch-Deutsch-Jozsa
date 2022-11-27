@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 def Test():
-    print("\nPRUEBAS FUNCION IGUALES")
+    print("\nPRUEBAS FUNCIÓN IGUALES")
     res4 = []
     """ Entrada | 0 >, | 0 >"""
 

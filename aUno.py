@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 def Test():
-    print("\nPRUEBAS FUNCION A UNO")
+    print("\nPRUEBAS FUNCIÓN A UNO")
     res2 = []
     """Entrada |0>, |0>"""
     simulator = Aer.get_backend('qasm_simulator')

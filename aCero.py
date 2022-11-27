@@ -5,7 +5,7 @@ from qiskit.visualization import plot_histogram
 import matplotlib.pyplot as plt
 
 def Test():
-    print("PRUEBAS FUNCION A CERO")
+    print("PRUEBAS FUNCIÓN A CERO")
     res = []
     """Entrada |0>, |0>"""
 

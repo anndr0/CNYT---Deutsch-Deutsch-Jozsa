@@ -5,7 +5,7 @@ from qiskit.visualization import plot_histogram
 import matplotlib.pyplot as plt
 
 def Test():
-    print("\nPRUEBAS FUNCION CRUZADOS")
+    print("\nPRUEBAS FUNCIÓN CRUZADOS")
     res3 = []
 
     """ Entrada |0 >, |0 >"""
