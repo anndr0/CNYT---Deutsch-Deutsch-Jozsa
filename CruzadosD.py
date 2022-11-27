@@ -5,6 +5,7 @@ from qiskit.visualization import plot_histogram
 import matplotlib.pyplot as plt
 
 def Test():
+    print("PRUEBAS EX. DEUTSCH FUNCIÓN CRUZADOS")
     print("\nFunción Balanceada")
     res3 = []
     simulator = Aer.get_backend('qasm_simulator')

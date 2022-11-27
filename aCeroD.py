@@ -5,7 +5,7 @@ from qiskit.visualization import plot_histogram
 import matplotlib.pyplot as plt
 
 def Test():
-    print("PRUEBAS EX. DEUTSCH FUNCION A CERO")
+    print("PRUEBAS EX. DEUTSCH FUNCIÓN A CERO")
     print("\nFunción Constante")
     res1 = []
 
