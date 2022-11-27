@@ -69,7 +69,7 @@ warn('The `QasmSimulator` backend will be deprecated in the'
 
 ## RESULTADOS
 
-A la par de la creación de los programas se realizó un reporte que contiene la discusión de los resultados presentados que encontrarás en REPORTE - Ana Duran.docx
+A la par de la creación de los programas se realizó un reporte que contiene la discusión de los resultados presentados que encontrarás en REPORTE Ana Duran.pdf
 
 ## **Autor ✒️**
 
